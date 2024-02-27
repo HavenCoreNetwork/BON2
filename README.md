@@ -3,4 +3,4 @@ BON2 [![Build Status](http://ci.tterrag.com/buildStatus/icon?job=BON2)](http://c
 
 A rewrite for Immibis's bearded-octo-nemesis for ForgeGradle.
 
-Old releases available in releases tab. Newer releases available on [Jenkins](http://ci.tterrag.com/job/BON2/).
+Old releases available in the releases tab. Newer releases available on [Jenkins](http://ci.tterrag.com/job/BON2/).
